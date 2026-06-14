@@ -1,0 +1,471 @@
+[
+  {
+    "no": 1,
+    "kolat": "KOLAT I SUMBAGUT",
+    "satdik": "RINDAM IM",
+    "alamat": "Jl. Jenderal Soedirman, Mata Ie, Darul Imarah, Kab. Aceh Besar, Prov. Aceh, 23352.",
+    "no_hp": ["08137405326", "081376058326", "085358850705", "085370407887"]
+  },
+  {
+    "no": 2,
+    "kolat": "KOLAT I SUMBAGUT",
+    "satdik": "RINDAM I/BB",
+    "alamat": "Jalan Arga Sari, Setia Negara, Kecamatan Siantar Sitalasari, Kota Pematang Siantar, Sumatera Utara 21113.",
+    "no_hp": ["081375141979"]
+  },
+  {
+    "no": 3,
+    "kolat": "KOLAT II SUMBAGSEL",
+    "satdik": "RINDAM II/SWJ",
+    "alamat": "Jl. Ahmad Yani, Kel. Pagar Agung, Kec. Lahat, Kab. Lahat, Sumatera Selatan 31419.",
+    "no_hp": ["081349099378"]
+  },
+  {
+    "no": 4,
+    "kolat": "KOLAT II SUMBAGSEL",
+    "satdik": "PUSLATPUR KODIKLATAD",
+    "alamat": "Jl. Lintas Sumatera, Kel. Sungai Tuha Jaya, Kec. Martapura Kab. OKU Timur, Sumatera Selatan 32311.",
+    "no_hp": ["081368746609", "085294717676", "081367632297", "085312850404"]
+  },
+  {
+    "no": 5,
+    "kolat": "KOLAT II SUMBAGSEL",
+    "satdik": "BRIGIF 4 MAR LAMPUNG",
+    "alamat": "Jl. Pematang Awi, Sanggi, Kec. Padang Cermin, Kabupaten Pesawaran, Lampung 35451.",
+    "no_hp": ["08211529359"]
+  },
+  {
+    "no": 6,
+    "kolat": "KOLAT II SUMBAGSEL",
+    "satdik": "SATDIK 1 KODIKLATAL TG. UBAN",
+    "alamat": "Jl. Diponegoro No. 43 Kampung Jeruk, Tanjung Uban Kota, Bintan Utara, Bintan, Kepulauan Riau 29152.",
+    "no_hp": ["081357126346"]
+  },
+  {
+    "no": 7,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "RINDAM JAYA",
+    "alamat": "Jl. Raya Condet No. 55, Kel. Gedong, Kec. Pasar Rebo, Jakarta Timur 13760.",
+    "no_hp": ["081269795805", "087898714573"]
+  },
+  {
+    "no": 8,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "PUSDIK INTELAD",
+    "alamat": "Jl. Kapten Yusuf No. 190, Kota Batu, Kec. Ciomas, Kabupaten Bogor, Jawa Barat 16610.",
+    "no_hp": ["08125540812"]
+  },
+  {
+    "no": 9,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "PUSDIKKES PUSKESAD",
+    "alamat": "Jl. Raya Bogor No. KM. 24, RT.2/RW.9, Kramat Jati, Kec. Kramat Jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13510.",
+    "no_hp": ["081293376543"]
+  },
+  {
+    "no": 10,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "AKADEMI TNI",
+    "alamat": "Komp. Militer Cilangkap, RW.4, Cilangkap, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13870.",
+    "no_hp": ["081320259315"]
+  },
+  {
+    "no": 11,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "PMPP TNI",
+    "alamat": "Komp. IPSC Sentul, Desa Tangkil, Kec. Citeureup, Kabupaten Bogor, Jawa Barat 16810.",
+    "no_hp": ["082120431096", "081332930506"]
+  },
+  {
+    "no": 12,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "BRIGIF 1 MAR",
+    "alamat": "Jl. Seroja No. 3 3, RT.3/RW.5, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560.",
+    "no_hp": ["081319785193"]
+  },
+  {
+    "no": 13,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "MENART 1 MAR",
+    "alamat": "Jl. Cilincing Landak, Marunda, Kecamatan Cilincing, Jakarta Utara, Daerah Khusus Ibukota Jakarta.",
+    "no_hp": ["081330455615", "081316644523"]
+  },
+  {
+    "no": 14,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "KOLAT KOARMADA I",
+    "alamat": "Jl. Gading Raya No. 5, RT.7/RW.2, Klp. Gading Barat, Kec. Klp. Gading, Jakarta Utara, Daerah Khusus Ibukota Jakarta 14240.",
+    "no_hp": ["081319785193"]
+  },
+  {
+    "no": 15,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "PUSBAHASA AU (304)",
+    "alamat": "Jl. Marsma Hardadi No. 3 Komplek Dwikora Lanud Halim Perdanakusuma, Jakarta Timur.",
+    "no_hp": ["085747047117"]
+  },
+  {
+    "no": 16,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "WINGDIK 500 (501, 504)",
+    "alamat": "Jl. Kukila Raya, Kelurahan Halim PK, Kecamatan Makasar, Jakarta Timur 13610.",
+    "no_hp": ["081318513579", "081318900365"]
+  },
+  {
+    "no": 17,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "YON PARAKO 461",
+    "alamat": "Jl. Marsma Hardadi Lanud Halim Jakarta Timur 13610.",
+    "no_hp": ["082315104781"]
+  },
+  {
+    "no": 18,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "YON PARAKO 465",
+    "alamat": "Jl. Kumboyono Dirgantara III Lanud Halim P, Jakarta Timur 13610.",
+    "no_hp": ["081281911276"]
+  },
+  {
+    "no": 19,
+    "kolat": "KOLAT III JAKARTA",
+    "satdik": "PUS KOMPETENSI BN",
+    "alamat": "Ds. Cibodas, Kec. Rumpin, Kabupaten Bogor, Jawa Barat 16350.",
+    "no_hp": ["082117121449", "081395066013"]
+  },
+  {
+    "no": 20,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKARMED PUSSENARMED",
+    "alamat": "Jl. Baros No. G151, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521.",
+    "no_hp": ["082215811978"]
+  },
+  {
+    "no": 21,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKJAS DISJASAD",
+    "alamat": "Jl. Pasir Kumeli No. 65, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521.",
+    "no_hp": ["082131359920"]
+  },
+  {
+    "no": 22,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIK PENGMILUM",
+    "alamat": "Jl. Gatot Subroto No. 1, Cimahi Tengah, Kota Cimahi, Jawa Barat 40523.",
+    "no_hp": ["082214140194"]
+  },
+  {
+    "no": 23,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKKAV PUSSENKAV",
+    "alamat": "Jl GA. Manulang No. 1, Purabaya, Desa Jaya Mekar, Kec. Padalarang, Kab. Bandung Barat 40553.",
+    "no_hp": ["081381600741"]
+  },
+  {
+    "no": 24,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKTER PUSTERAD",
+    "alamat": "Jl. Raya Gadobangkong No. 146, Gadobangkong, Kec. Ngamprah, Kabupaten Bandung Barat, Jawa Barat 40552.",
+    "no_hp": ["081278585853"]
+  },
+  {
+    "no": 25,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKPAL PUSPALAD",
+    "alamat": "Jl. Poncol Selatan No. 24, Kel. Karang Mekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523.",
+    "no_hp": ["082267682012"]
+  },
+  {
+    "no": 26,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKIF PUSSENIF",
+    "alamat": "Jl. Gatot Subroto No. 143 Blok H, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523.",
+    "no_hp": ["08126586051"]
+  },
+  {
+    "no": 27,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKPOM PUSPOMAD",
+    "alamat": "Jl. Baru No. 1, Baros, Kecamatan Cimahi Tengah, Kota Cimahi, Jawa Barat 40521.",
+    "no_hp": ["08111132471"]
+  },
+  {
+    "no": 28,
+    "kolat": "KOLAT IV CIMAHI",
+    "satdik": "PUSDIKBEKANG PUSBEKANGAD",
+    "alamat": "Jl. Gatot Subroto No. 4, Cimahi Tengah, Kota Cimahi, Jawa Barat 40523.",
+    "no_hp": ["087896385294"]
+  },
+  {
+    "no": 29,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "DODIK BN RINDAM III/SLW",
+    "alamat": "Jl. Tangkuban Perahu No. 224, Desa Cikole, Kec. Lembang, Kab. Bandung Barat, Jawa Barat 40391.",
+    "no_hp": ["082111116280", "82115362256"]
+  },
+  {
+    "no": 30,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "SESKOAD",
+    "alamat": "Jl. Gatot Subroto No. 96, Lkr. Sel., Kec. Lengkong, Kota Bandung, Jawa Barat 40162.",
+    "no_hp": ["082147987150"]
+  },
+  {
+    "no": 31,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "PUSDIK KOWAD KODIKLATAD",
+    "alamat": "Jl. Raya Lembang No. 127, Gudangkahuripan, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391.",
+    "no_hp": ["08131449313"]
+  },
+  {
+    "no": 32,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "PUSDIKU DITKUAD",
+    "alamat": "Jl. Sindang Sirna No. 6, Kel. Geger Kalong, Kec. Sukasari, Kota Bandung, Jawa Barat 40153.",
+    "no_hp": ["082133221968"]
+  },
+  {
+    "no": 33,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "PUSDIKKUM DITKUMAD",
+    "alamat": "Jl. Dokter Setiabudhi No. 238, Cidadap, Ledeng, Bandung, Kota Bandung, Jawa Barat 40154.",
+    "no_hp": ["082111611868"]
+  },
+  {
+    "no": 34,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "PUSDIKTOP DITOPAD (SATDIKPA)",
+    "alamat": "Jl. Sariwangi No. 69, Kec. Parongpong, Kab. Bandung Barat, Jawa Barat 40559.",
+    "no_hp": ["082158444488"]
+  },
+  {
+    "no": 35,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "PUSDIKAJEN DITAJENAD",
+    "alamat": "Jl. Maribaya No. 21, Lembang, Kab Bandung Barat, Jawa Barat 40391.",
+    "no_hp": ["082276086757", "082117579444"]
+  },
+  {
+    "no": 36,
+    "kolat": "KOLAT V BANDUNG",
+    "satdik": "SECAPA AD",
+    "alamat": "Jl. Hegarmanah No. 152, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40141.",
+    "no_hp": ["082350698330"]
+  },
+  {
+    "no": 37,
+    "kolat": "KOLAT VI SULAIMAN BANDUNG",
+    "satdik": "SKADIK 804/WING 800",
+    "alamat": "Jl. Mustang, Sulaiman, Kec. Margahayu, Kabupaten Bandung, Jawa Barat 40229.",
+    "no_hp": ["082199999266"]
+  },
+  {
+    "no": 38,
+    "kolat": "KOLAT VI SULAIMAN BANDUNG",
+    "satdik": "SKADIK 201/WING 200",
+    "alamat": "Jl. Hercules Lanud Sulaiman, Margahayu, Kabupaten Bandung, Jawa Barat 40229.",
+    "no_hp": ["08122386145"]
+  },
+  {
+    "no": 39,
+    "kolat": "KOLAT VI SULAIMAN BANDUNG",
+    "satdik": "SKADIK 303/WING 300",
+    "alamat": "Jl. Pangkalan TNI AU Lanud Suryadarma, Kec. Kalijati, Kab. Subang, Jawa Barat 41271.",
+    "no_hp": ["081220016725", "087794585154"]
+  },
+  {
+    "no": 40,
+    "kolat": "KOLAT VI SULAIMAN BANDUNG",
+    "satdik": "SKADIK 502/WING 500",
+    "alamat": "Jl. Kalijati Lama Lanud R. Suryadi Suryadarma Kalijati Subang, Jawa Barat.",
+    "no_hp": ["081222134111", "081235400673"]
+  },
+  {
+    "no": 41,
+    "kolat": "KOLAT VII JATENG & DIY",
+    "satdik": "RINDAM IV/DIP",
+    "alamat": "Jl. Kesatrian Lor, Gelangan, Kec. Magelang Tengah, Kota Magelang, Jawa Tengah 56112.",
+    "no_hp": ["082117070203"]
+  },
+  {
+    "no": 42,
+    "kolat": "KOLAT VII JATENG & DIY",
+    "satdik": "PUSDIK PENERBAD PUSPENERBAD",
+    "alamat": "Jl. Puad A Yani, Kalibanteng Kulon, Semarang Barat, Semarang City, Central Java 50145.",
+    "no_hp": ["082142264920", "081264700171"]
+  },
+  {
+    "no": 43,
+    "kolat": "KOLAT VII JATENG & DIY",
+    "satdik": "PUSDIKTOP (SATDIK BA/TA)",
+    "alamat": "Jl. Sidikoro No. 1, Kel. Baluwarti, Kec. Pasar Kliwon, Kota Surakarta, Jawa Tengah 57144.",
+    "no_hp": ["081221002016"]
+  },
+  {
+    "no": 44,
+    "kolat": "KOLAT VII JATENG & DIY",
+    "satdik": "SKADIK 402/WING 400",
+    "alamat": "Jl. Tentara Pelajar No. 1, Malangjiwan, Kec. Colomadu, Kab. Karanganyar, Jawa Tengah.",
+    "no_hp": ["081228305501"]
+  },
+  {
+    "no": 45,
+    "kolat": "KOLAT VII JATENG & DIY",
+    "satdik": "AAU",
+    "alamat": "Ksatrian Akademi Angkatan Udara, Jl. Laksda Adisucipto km 10, Kalasan, Sleman, Yogyakarta 55002.",
+    "no_hp": ["08157968563"]
+  },
+  {
+    "no": 46,
+    "kolat": "KOLAT VIII MALANG",
+    "satdik": "DODIKLATPUR RINDAM V/BRW",
+    "alamat": "Desa Kedunglo, Kec. Asem Bagus, Kab. Situbondo, Jawa Timur 68373.",
+    "no_hp": ["082143346666"]
+  },
+  {
+    "no": 47,
+    "kolat": "KOLAT VIII MALANG",
+    "satdik": "DBN RINDAM V/BRW",
+    "alamat": "Jl. Soedirman No. 1 Kel. Kesatrian, Kec. Blimbing, Kota Malang, Jawa Timur 65121.",
+    "no_hp": ["081388655122"]
+  },
+  {
+    "no": 48,
+    "kolat": "KOLAT VIII MALANG",
+    "satdik": "PUSDIKARHANUD PUSSENARHANUD",
+    "alamat": "Jl. Ksatrian Arhanud, Pendem, Kec. Junrejo, Kota Batu, Jawa Timur 65324.",
+    "no_hp": ["085738186168"]
+  },
+  {
+    "no": 49,
+    "kolat": "KOLAT IX SIDOARJO",
+    "satdik": "BRIGIF 2 MAR",
+    "alamat": "Jl. Juanda No. 2 Semambung, Kec. Gedangan, Kab. Sidoarjo, Jawa Timur 61254.",
+    "no_hp": ["082330397068", "082135148266"]
+  },
+  {
+    "no": 50,
+    "kolat": "KOLAT IX SIDOARJO",
+    "satdik": "MENBANPUR 2 MAR",
+    "alamat": "Ksatrian Marinir Soetedi Senaputra, Karang Pilang, Surabaya, Jawa Timur 60221.",
+    "no_hp": ["081235995967"]
+  },
+  {
+    "no": 51,
+    "kolat": "KOLAT IX SIDOARJO",
+    "satdik": "PLP 3 GRATI",
+    "alamat": "Jl. Kembar Gejugjati KM 3 Prokimal, Kec. Lekok, Kab. Pasuruan, Provinsi Jawa Timur.",
+    "no_hp": ["081554446661"]
+  },
+  {
+    "no": 52,
+    "kolat": "KOLAT IX SIDOARJO",
+    "satdik": "PLP 4 PURBOYO",
+    "alamat": "Jl. Raya Bantur, Bandung Rejo, Kec. Bantur, Malang Selatan, Jawa Timur.",
+    "no_hp": ["082337254711"]
+  },
+  {
+    "no": 53,
+    "kolat": "KOLAT IX SIDOARJO",
+    "satdik": "PLP 5 BALURAN",
+    "alamat": "Jl. Raya Baluran, Area Hutan/Kebun, Sumberwaru, Kec. Banyuputih, Kabupaten Situbondo, Jawa Timur 68374.",
+    "no_hp": ["082121272752", "081336582342", "087751142767"]
+  },
+  {
+    "no": 54,
+    "kolat": "KOLAT X SURABAYA",
+    "satdik": "PUSLATDIKSARMIL KODIKLATAL",
+    "alamat": "Jl. Budi Sumantri Puslatdiksarmil, Komplek Lanudal Juanda, Sedati, Sidoarjo, Jawa Timur 61253.",
+    "no_hp": ["085338252676"]
+  },
+  {
+    "no": 55,
+    "kolat": "KOLAT X SURABAYA",
+    "satdik": "KODIKMAR",
+    "alamat": "Jl. Golf No. 01 Gunung Sari, Kec. Dukuh Pakis, Surabaya, Jawa Timur 60224.",
+    "no_hp": ["082220370273"]
+  },
+  {
+    "no": 56,
+    "kolat": "KOLAT X SURABAYA",
+    "satdik": "KODIKDUKKUM KODIKLATAL",
+    "alamat": "Jl. Moro Krembangan, Kec. Krembangan, Surabaya, Jawa Timur 60178.",
+    "no_hp": ["081219960240"]
+  },
+  {
+    "no": 57,
+    "kolat": "KOLAT X SURABAYA",
+    "satdik": "AAL",
+    "alamat": "Komp. TNI AL Bumi Moro, Morokrembangan, Kec. Krembangan, Kota Surabaya, Jawa Timur 60178.",
+    "no_hp": ["081216451416"]
+  },
+  {
+    "no": 58,
+    "kolat": "KOLAT XI BALI",
+    "satdik": "RINDAM IX/UDY",
+    "alamat": "Jl. Tendean No. 1, Banjar Anyar, Kec. Kediri, Kabupaten Tabanan, Bali 82121.",
+    "no_hp": ["081287972529"]
+  },
+  {
+    "no": 59,
+    "kolat": "KOLAT XII KALIMANTAN",
+    "satdik": "DBN RINDAM XXII/TB",
+    "alamat": "Landasan Ulin Tengah, Kec. Liang Anggang, Kota Banjar Baru, Kalimantan Selatan 70724.",
+    "no_hp": ["081310100403"]
+  },
+  {
+    "no": 60,
+    "kolat": "KOLAT XII KALIMANTAN",
+    "satdik": "DODIKJUR RINDAM VI/MLW",
+    "alamat": "Jl. Mulawarman No. 30, Kel. Manggar, Kec. Balikpapan Timur, Kota Balikpapan, Kalimantan Timur 76117.",
+    "no_hp": ["081212803909"]
+  },
+  {
+    "no": 61,
+    "kolat": "KOLAT XII KALIMANTAN",
+    "satdik": "DBN RINDAM XII/TPR",
+    "alamat": "Jl. Veteran, RT.62/RW.4, Kelurahan Roban, Kec. Singkawang Tengah, Kota Singkawang, Kalimantan Barat 79151.",
+    "no_hp": ["08125985542"]
+  },
+  {
+    "no": 62,
+    "kolat": "KOLAT XIII SULAWESI",
+    "satdik": "RINDAM XIV/HSN",
+    "alamat": "Jl. Poros Malino KM.24, Asrama Rindam XIV/HSN, Desa Mata Allo, Kec. Bontonmarannu, Kab. Gowa, Prov. Sulawesi Selatan 92171.",
+    "no_hp": ["085823236809"]
+  },
+  {
+    "no": 63,
+    "kolat": "KOLAT XIII SULAWESI",
+    "satdik": "RINDAM XIII/MDK",
+    "alamat": "Jl. Raya Tomohon, Kel. Kinilow, Kec. Tomohon Utara, Kota Tomohon, Sulut.",
+    "no_hp": ["082195646008"]
+  },
+  {
+    "no": 64,
+    "kolat": "KOLAT XIII SULAWESI",
+    "satdik": "SATDIK 2 KODIKLATAL MAKASSAR",
+    "alamat": "Jl. Perintis Kemerdekaan KM.17, Kel. Pai, Kec. Biringkanaya, Kota Makassar, Sulawesi Selatan 90242.",
+    "no_hp": ["081322886792"]
+  },
+  {
+    "no": 65,
+    "kolat": "KOLAT XIII SULAWESI",
+    "satdik": "SATDIK 4 KODIKLATAL MANADO",
+    "alamat": "Jl. Foxtrot Post, Pinenek, Kec. Likupang Timur, Kabupaten Minahasa Utara, Sulawesi Utara, Indonesia.",
+    "no_hp": ["082111241998"]
+  },
+  {
+    "no": 66,
+    "kolat": "KOLAT XIV AMBON",
+    "satdik": "RINDAM XV/PTM",
+    "alamat": "Jl. Tukirin, Desa Waimital, Kec. Kairatu, Kab. Seram Bagian Barat, Maluku 97566.",
+    "no_hp": ["081343432082", "081240223031"]
+  },
+  {
+    "no": 67,
+    "kolat": "KOLAT XV PAPUA",
+    "satdik": "RINDAM XVII/CEN",
+    "alamat": "Jl. Mac Arthur Ifargunung, Kec. Sentani, Kab. Jayapura, Papua 99359.",
+    "no_hp": ["081291516085"]
+  }
+]
