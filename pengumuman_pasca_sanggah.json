@@ -1,0 +1,71 @@
+{
+  "nomor_pengumuman": "3491/1/KP.01.01/09/2026",
+  "tanggal_pengumuman": "2026-09-11",
+  "judul": "Hasil Integrasi Nilai Setelah Masa Sanggah Pengadaan Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) Jabatan Fungsional Guru dan Tenaga Kependidikan Sekolah Rakyat di Lingkungan Kementerian Sosial Republik Indonesia Tahun Anggaran 2026",
+  "instansi": "Kementerian Sosial Republik Indonesia",
+  "menindaklanjuti": [
+    "Pengumuman Nomor 3352/1/KP.01.00/09/2026 Tanggal 04 September 2026 tentang Hasil Integrasi Nilai PPPK JF Guru dan Tenaga Kependidikan Sekolah Rakyat",
+    "Surat Kepala BKN Nomor 3518/BKS.04.03/SD/K/2026 Tanggal 02 September 2026 tentang Penyampaian Hasil SKT",
+    "Surat Nomor 3517/B-KS.04.03/SD/K/2026 Tanggal 04 September 2026 tentang Penyampaian Hasil SKT"
+  ],
+  "rekap_sanggah": {
+    "total_peserta_sanggah": 1770,
+    "sanggah_guru": 543,
+    "sanggah_tenaga_kependidikan": 1227
+  },
+  "kode_status": [
+    { "kode": "L", "keterangan": "Peserta Lulus" },
+    { "kode": "P", "keterangan": "Peserta Mengikuti Seleksi" },
+    { "kode": "TL", "keterangan": "Tidak Lulus" },
+    { "kode": "TH", "keterangan": "Peserta Tidak Hadir" },
+    { "kode": "TMS", "keterangan": "Tidak Memenuhi Syarat" },
+    { "kode": "APS", "keterangan": "Peserta Mengundurkan Diri" },
+    { "kode": "P/L", "keterangan": "Lulus (ditetapkan Panselnas berdasarkan pemeriksaan ulang hasil sanggah)" }
+  ],
+  "kelulusan": {
+    "penjelasan": "Peserta dinyatakan LULUS apabila memenuhi ketentuan Panitia Seleksi Nasional (Panselnas) dengan kode huruf 'P/L' pada kolom keterangan.",
+    "lampiran_guru": "Lampiran I",
+    "lampiran_tenaga_kependidikan": "Lampiran II"
+  },
+  "langkah_peserta_lulus": {
+    "batas_waktu_pengisian_drh": "2026-09-23",
+    "instruksi": "Peserta yang dinyatakan lulus wajib segera mengisi Daftar Riwayat Hidup (DRH) dan menyampaikan berkas kelengkapan usul penetapan Nomor Induk PPPK secara elektronik melalui SSCASN paling lambat tanggal 23 September 2026.",
+    "portal_upload": "https://sscasn.bkn.go.id/",
+    "dokumen_wajib": [
+      "Pas foto terbaru pakaian formal (kemeja putih lengan panjang) dengan latar belakang warna merah",
+      "Hasil pindai (scan) ijazah asli berwarna dan transkrip nilai yang digunakan sebagai dasar melamar (bagi lulusan Perguruan Tinggi Luar Negeri, ijazah yang telah disetarakan DIKTI)",
+      "Daftar Riwayat Hidup (DRH) yang diisi lengkap dari SSCASN, digabung jadi 1 file, diisi tulisan tangan pada bagian bertanda *), dibubuhi materai/e-materai, dan ditandatangani",
+      "Surat Pernyataan 5 poin (materai/e-materai Rp10.000 asli, sesuai format Lampiran III) mengacu Peraturan BKN No. 1 Tahun 2019 jo. No. 18 Tahun 2020",
+      "Surat Keterangan Catatan Kepolisian (SKCK) yang masih berlaku, minimal dari Kepolisian Resort",
+      "Surat keterangan sehat jasmani dari dokter PNS atau dokter di unit pelayanan kesehatan pemerintah",
+      "Surat keterangan sehat rohani dari dokter PNS atau dokter di unit pelayanan kesehatan pemerintah",
+      "Surat keterangan tidak mengkonsumsi/menggunakan narkotika, psikotropika, prekursor, dan zat adiktif lainnya",
+      "Dokumen lain sesuai formulir isian DRH pada akun SSCASN peserta (jika ada)"
+    ],
+    "isi_surat_pernyataan_5_poin": [
+      "Tidak pernah dipidana penjara 2 tahun atau lebih berdasarkan putusan pengadilan berkekuatan hukum tetap",
+      "Tidak pernah diberhentikan tidak dengan hormat (atau tidak atas permintaan sendiri) sebagai CPNS/PNS/PPPK/TNI/POLRI/pegawai swasta termasuk BUMN/BUMD",
+      "Tidak berkedudukan sebagai CPNS/PNS, PPPK, atau anggota TNI/POLRI",
+      "Tidak menjadi anggota/pengurus Partai Politik atau terlibat politik praktis",
+      "Bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia atau negara lain yang ditentukan Pemerintah"
+    ],
+    "catatan_dokumen": "Dokumen yang diunggah harus jelas dan dalam posisi tegak sehingga mudah dibaca.",
+    "konsekuensi_tidak_lapor": "Peserta yang tidak mengisi DRH dan menyampaikan kelengkapan berkas sampai batas waktu tanpa pemberitahuan kepada Panitia Seleksi Instansi dianggap mengundurkan diri.",
+    "prosedur_mengundurkan_diri": "Peserta lulus yang ingin mengundurkan diri wajib membuat surat pernyataan pengunduran diri sesuai format Lampiran IV, ditandatangani, diberi materai/e-materai Rp10.000, dan diunggah di SSCASN."
+  },
+  "ketentuan_umum": [
+    "Panitia dapat menggugurkan kelulusan dan/atau memberhentikan status PPPK kapan pun (termasuk setelah pemberkasan NIP) jika ditemukan dokumen/keterangan peserta yang tidak sesuai, tidak benar, atau menyalahi ketentuan",
+    "Peserta wajib membaca dengan cermat setiap pengumuman di setiap tahapan seleksi; kelalaian menjadi tanggung jawab peserta sendiri",
+    "Keputusan Panitia Seleksi pada setiap tahapan bersifat final dan tidak dapat diganggu gugat",
+    "Pelamar diimbau selalu memantau https://sscasn.bkn.go.id dan https://kemensos.go.id untuk informasi terbaru",
+    "Seluruh proses pengangkatan PPPK tidak dipungut biaya apapun",
+    "Peserta, keluarga, dan pihak lain dilarang memberikan sesuatu dalam bentuk apapun terkait proses ini; pelanggaran diproses sesuai hukum dan menggugurkan kelulusan"
+  ],
+  "penutup": {
+    "tempat": "Jakarta",
+    "tanggal": "2026-09-11",
+    "jabatan_penandatangan": "Ketua Panitia Seleksi",
+    "nama_penandatangan": "Robben Rico",
+    "keterangan": "Dokumen telah ditandatangani secara elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE), BSSN"
+  }
+}
